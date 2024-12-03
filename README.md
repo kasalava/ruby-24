@@ -1,1 +1,3 @@
-# ruby-24
+Lesson 24
+
+Git
